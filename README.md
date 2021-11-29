@@ -22,16 +22,6 @@
 > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-## `CHANGE SESSION`
-
-[`Click Here`](https://github.com/LihhXd/bot/blob/master/session.json#L1)
-
-## `SETTING`
-
-- Owner number [Here](https://github.com/LihhXd/bot/blob/master/settings.json#L1)
-- Owner name [Here](https://github.com/LihhXd/bot/blob/master/settings.json#L1)
-- Botname [Here](https://github.com/LihhXd/bot/blob/master/settings.json#L1)
-
 ## `CHANGE DYNO`
 
 restart
@@ -39,7 +29,7 @@ restart
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://h.top4top.io/p_21537gafi1.jpg" />
+  <a href="https://instagram.com/yslihh"><img src="https://h.top4top.io/p_21537gafi1.jpg" />
 </p>
 
 ## `FOLLOW`
